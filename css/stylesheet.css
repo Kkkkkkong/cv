@@ -1,0 +1,46 @@
+body  {
+  background: lawngreen;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family:avenir next;
+}
+
+h2 {
+  font-family: avenir next;
+  font-size: 25px
+}
+
+p,ul {
+    font-family: avenir next;
+    font-weight: ultralight;
+    font-size: 15px
+}
+
+.profile-image{
+  display:block;
+  width: 100%;
+  max-width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper {
+  width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: lawngreen;
+  padding: 30px;
+}
+
+div {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+｝
